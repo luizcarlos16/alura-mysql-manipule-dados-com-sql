@@ -58,7 +58,23 @@
 * Stored Procedures uma lingaugem que não respeitam o padrão ANSI que permitem linguagem estruturadas.
 * Funções são cálculos que podemos fazer no banco de dados e depois utilizar em outras partes.
 * Triggers são avisos ou alertas programados para quando uma condição for satisfeita no banco de dados.
-* 
+---
+
+### Gerenciando as tabelas do banco de dados
+
+---
+
+### Gerenciando as tabelas do banco de dados
+
+---
+
+### Manutenção dos dados nas tabelas
+
+---
+
+### Consultando os dados
+
+
 
 
 
