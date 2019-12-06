@@ -38,7 +38,7 @@
 * Gerenciamento de Log (Réplica de servidores)
 
 #### Instalação
-* IDE Workbench do proprio Mysql.
+* IDE [Workbench do proprio Mysql](https://www.mysql.com/products/workbench/).
 * No Windows -> Community Edition ->  Mysql on Windows Installer and Tools ->  Mysql Installer -> Mysql Web Community
 * Login no Site da Oracle.
 * Developer Default -> Next  -> Standalone Mysql Server -> Use Strong encrypted ->  Já instala o Workbench -> Colocar a senha do root
