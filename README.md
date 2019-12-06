@@ -6,16 +6,19 @@
 ---
 ### Instalando e configurando o Mysql.
 
-#### História da Linguagem
+#### Introdução
+#### História da Linguagem SQL
 * Desenvolvido pela IBM.
 * Banco de dados relacionais.(DBMS)
 * ANSI - SQL (sequel) - Padrão(Criação, manipulaçao de bd)
-* Vatangens: Aprendizado, Portabilidade, Longevidade, Comunicação.
-* Desvantagens: Falta de criatividade(NoSQL), falta de estruturação(
+* Vantangens: Aprendizado, Portabilidade, Longevidade, Comunicação, Liberdade de escolha.
+* Desvantagens: Falta de criatividade(NoSQL), falta de estruturação
 
 #### Comandos
 > DDL - Manipulação das estruturas de um banco de dados.
+
 > DML - Linguagem de Manipulação de dados(incluir, alterar, excluir, consultas).
+
 > DCL - Linguagem de controle de dados(Administração, controle de acesso, política de crescimento, controle de logs)
 
 #### História do Mysql
