@@ -26,6 +26,7 @@ PERCENTUAL_COMISSAO float);
 DROP TABLE nomedatabela;
 DROP TABLE tbcliente2;
 
+-- Criar a tabela cliente
 CREATE TABLE TB_CLIENTES
 ( CPF VARCHAR (11) ,
 NOME VARCHAR (100) ,
